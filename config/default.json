@@ -2,6 +2,6 @@
     "appSecret": "<Add your appSecret>",
     "pageAccessToken" : "<Add your pageAccessToken>",
     "validationToken": "<Add your validationToken>",
-    "serverURL": "<Add your server URL(eg https://<example>.herokuapp.com)",
+    "serverURL": "https://git.heroku.com/koronkabot.git",
     "wayloKey": "<Add your waylo API KEY>"
 }
